@@ -1,15 +1,17 @@
-# Grokking Dynamic Programming Patterns for Coding Interviews
+# Grokking Dynamic Programming Patterns for Coding Interviews with Complimentary Resources for In Depth Understanding
 
 
 
 ## Pattern 1: 0/1 Knapsack
 
 1. [0/1 Knapsack Problem](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)
-2. [Equal Subset Sum Partition](https://www.geeksforgeeks.org/partition-problem-dp-18/)
-3. [Subset Sum](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/)
-4. [Minimum Subset Sum Difference](https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/)
-5. [Count of subset sum](https://www.geeksforgeeks.org/perfect-sum-problem-print-subsets-given-sum/)
-6. [Target Sum (Leetcode)](https://leetcode.com/problems/target-sum/solution/)
+   Read more:
+   a) [Tabular Method](https://youtu.be/nLmhmB6NzcM?t=263)
+3. [Equal Subset Sum Partition](https://www.geeksforgeeks.org/partition-problem-dp-18/)
+4. [Subset Sum](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/)
+5. [Minimum Subset Sum Difference](https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/)
+6. [Count of subset sum](https://www.geeksforgeeks.org/perfect-sum-problem-print-subsets-given-sum/)
+7. [Target Sum (Leetcode)](https://leetcode.com/problems/target-sum/solution/)
 
 
 
