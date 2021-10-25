@@ -5,8 +5,10 @@
 ## Pattern 1: 0/1 Knapsack
 
 1. [0/1 Knapsack Problem](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)
+   
    Read more:
    a) [Tabular Method](https://youtu.be/nLmhmB6NzcM?t=263)
+   
 3. [Equal Subset Sum Partition](https://www.geeksforgeeks.org/partition-problem-dp-18/)
 4. [Subset Sum](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/)
 5. [Minimum Subset Sum Difference](https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/)
