@@ -12,8 +12,7 @@
 5. [Count of subset sum](https://www.geeksforgeeks.org/perfect-sum-problem-print-subsets-given-sum/)
 6. [Target Sum (Leetcode)](https://leetcode.com/problems/target-sum/solution/)
 
-### Questions to practice on
-1.  
+### [LeetCode List Covering This Pattern](https://leetcode.com/list/9arzhmhi)
 
 ## Pattern 2: Unbounded Knapsack
 
