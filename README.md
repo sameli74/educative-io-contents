@@ -1,4 +1,4 @@
-# Grokking Dynamic Programming Patterns for Coding Interviews with Complimentary Resources for In Depth Understanding
+# Grokking Dynamic Programming Patterns for Coding Interviews + Complementary Resources
 
 
 
