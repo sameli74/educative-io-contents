@@ -8,7 +8,7 @@
 2. [Subset Sum](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/)
    * [Equal Subset Sum Partition](https://www.geeksforgeeks.org/partition-problem-dp-18/)
    * [Minimum Subset Sum Difference](https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/)
-3. [Count of subset sum](https://www.youtube.com/watch?v=MqYLmIzl8sQ)
+3. [Count of subset sum: Youtube Video](https://www.youtube.com/watch?v=MqYLmIzl8sQ)
    * [Perfect Sum](https://www.geeksforgeeks.org/perfect-sum-problem-print-subsets-given-sum/)
 
 ### [LeetCode List Covering This Pattern](https://leetcode.com/list/9arzhmhi)
