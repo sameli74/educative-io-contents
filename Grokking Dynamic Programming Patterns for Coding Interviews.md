@@ -10,7 +10,6 @@
 3. [Subset Sum](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/)
 4. [Minimum Subset Sum Difference](https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/)
 5. [Count of subset sum](https://www.geeksforgeeks.org/perfect-sum-problem-print-subsets-given-sum/)
-6. [Target Sum (Leetcode)](https://leetcode.com/problems/target-sum/solution/)
 
 ### [LeetCode List Covering This Pattern](https://leetcode.com/list/9arzhmhi)
 
