@@ -1,17 +1,21 @@
-# Grokking Dynamic Programming Patterns for Coding Interviews
+# Grokking Dynamic Programming Patterns for Coding Interviews + Complementary Resources
 
 
 
 ## Pattern 1: 0/1 Knapsack
 
 1. [0/1 Knapsack Problem](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)
-2. [Equal Subset Sum Partition](https://www.geeksforgeeks.org/partition-problem-dp-18/)
-3. [Subset Sum](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/)
-4. [Minimum Subset Sum Difference](https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/)
-5. [Count of subset sum](https://www.geeksforgeeks.org/perfect-sum-problem-print-subsets-given-sum/)
-6. [Target Sum (Leetcode)](https://leetcode.com/problems/target-sum/solution/)
+2. [Subset Sum](https://www.geeksforgeeks.org/subset-sum-problem-dp-25/)
+   * [Equal Subset Sum Partition](https://www.geeksforgeeks.org/partition-problem-dp-18/)
+   * [Minimum Subset Sum Difference](https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/)
+3. [Count of subset sum: Youtube Video](https://www.youtube.com/watch?v=MqYLmIzl8sQ)
+   * [Perfect Sum](https://www.geeksforgeeks.org/perfect-sum-problem-print-subsets-given-sum/)
 
+### [LeetCode List Covering This Pattern](https://leetcode.com/list/9arzhmhi)
 
+### Read More
+1. [Tabular Method](https://youtu.be/nLmhmB6NzcM?t=263) (read more)
+2. [Minimum Subset Sum Difference: Youtube Video](https://www.youtube.com/watch?v=FB0KUhsxXGY)
 
 ## Pattern 2: Unbounded Knapsack
 
